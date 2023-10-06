@@ -4,7 +4,7 @@ export class Assalariado extends Empregado{
     private salario: number;
 
     public constructor(_nome: string,_cpf: string, _salario: number){
-        super (_nome, _cpf)
+        super (_nome, _cpf);
         this.salario = _salario;
     }
 
