@@ -31,4 +31,4 @@ h1.setValorHora(40);
 h1.setHorasTrabalhadas(8);
 console.log(`Nome: ${h1.getNome()}, CPF: ${h1.getCPF()}`);
 console.log(`Valor da Hora: ${h1.getValorHora()}, Horas Trabalhadas: ${h1.getHorasTrabalhadas()}`);
-console.log(`Vencimento: ${h1.vencimento()}`);
+console.log(`Vencimento: ${h1.vencimento()}`);  
